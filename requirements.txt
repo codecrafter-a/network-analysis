@@ -1,0 +1,14 @@
+# Requirements for all three applications
+
+# Network Analysis Application
+# (No external dependencies - uses only standard library)
+
+# Car Monitoring System
+# (No external dependencies - uses only standard library)
+
+# Weather Alert System
+# (No external dependencies - uses only standard library)
+
+# All applications use Python 3.7+ standard library only
+# No additional packages required
+
